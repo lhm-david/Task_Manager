@@ -1,0 +1,32 @@
+*{
+	margin: 0 auto;
+}
+
+.wrapper{
+	display: flex;
+    justify-content: space-between;
+    width:900px;
+}
+
+.container{
+	padding: 10px;
+	padding-top:50px;
+	border:1px solid black;
+	background-color:gery;
+}
+
+.header{
+	display: flex;
+    justify-content: space-between;
+}
+
+.eventTable{
+	border:1px solid black;
+	width:700px;
+	padding:10px;
+}
+
+h4, .base{
+	text-align:center;
+}
+
